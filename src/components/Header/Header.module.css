@@ -1,0 +1,22 @@
+.header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: rgb(181, 79, 54);
+}
+.title{
+    color: #ffffff;
+    padding-left: 10px;
+}
+
+.nav{
+   display: flex;
+   gap: 8px;
+   padding-right: 10px;
+}
+
+.nav, a{
+    color: #fbfbff;
+    text-decoration: none;
+
+}
